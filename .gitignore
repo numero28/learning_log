@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+ll_env/
+__pycache__/
+*.sqlite3
